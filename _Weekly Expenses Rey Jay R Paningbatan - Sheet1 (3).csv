@@ -1,0 +1,21 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Saving
+8/23,Friday,85,Lil pete concert,Entertainment and Recreation,Debit,Want
+8/24,Saturday,60,gas,Travel,Debit,Need
+8/24,Saturday,45,groceries,Food,Debit,Need
+8/25,Sunday,1600,Car ,Bills,Debit,Need
+8/26,Monday,13,Spotify ,Bills,Debit,Want
+8/28,Wednesday,4,pre-workout,Food,Cash,Want
+8/28,Wednesday,14,movie ticket,Entertainment and Recreation,Debit,Want
+8/29,Thursday,4,pre-workout,Food,Cash,Want
+8/29,Thursday,20,dog treats,Housing,Debit,Want
+8/30,Friday,10,soup,Food,Cash,Want
+8/30,Friday,43,parking ticket ,Bills,Debit,Need
+8/30,Friday,400,pay day ,Bills,Debit,Savings
+8/31,Saturday,500,second job,Bills,Debit,Savings
+9/1,Sunday,7,smothie,Food,Cash,Want
+9/1,Sunday,30,haircut,Entertainment and Recreation,Debit,Want
+9/1,Sunday,55,dog food,Bills,Debit,Need
+9/2,Monday,20, medicine,Food,Cash,Need
+9/2,Monday,15,subscriptions,Entertainment and Recreation,Debit,Want
+9/3,Tuesday,20,chic-fil-a,Food,Cash,Want
+9/3,Tuesday,25,medicine,Food,Debit,Need
